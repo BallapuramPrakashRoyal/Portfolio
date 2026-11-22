@@ -10,6 +10,15 @@ export interface CertificationItem {
 
 export const certificationsData: CertificationItem[] = [
   {
+    title: 'Oracle Agentic AI Certified Foundations Associate',
+    issuer: 'Oracle',
+    year: 'Nov 2026',
+    credentialId: 'ID: 333502024AAI26OFA',
+    link: '/certifications/docs/oracle_agentic_ai.pdf',
+    image: '/certifications/images/oracle_agentic_ai.png',
+    proof: '/certifications/docs/oracle_agentic_ai.pdf',
+  },
+  {
     title: 'Certified AppSec Practitioner (CAP)',
     issuer: 'The SecOps Group',
     year: 'Nov 2024',

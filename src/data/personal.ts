@@ -21,7 +21,7 @@ export const personalData = {
     stats: [
       { label: 'CGPA', value: '9.15' },
       { label: 'Projects Built', value: '4+' },
-      { label: 'Certifications', value: '11' },
+      { label: 'Certifications', value: '12' },
       { label: 'Research Papers', value: '1' },
     ],
   },
